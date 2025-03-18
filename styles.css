@@ -1,0 +1,29 @@
+body {
+padding: 10px 150px;
+}
+
+article {
+    padding: 32px;
+    border-radius: 8px;
+    display: inline-block;
+    background-color: #EAD8C7;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+
+
+
+}
+
+h2 {
+    color: #A96D61;
+    text-align: center;
+    font-family: "Oleo Script Swash Caps", system-ui;
+    font-size: 50px;
+    margin: 0px;
+}
+
+img {
+    border-radius: 50%;
+    border: 4px solid #A96D61;
+    width: 300px;
+    margin-bottom: 10px;
+}
